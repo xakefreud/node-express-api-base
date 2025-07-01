@@ -2,10 +2,10 @@
   "name": "supplementary-api-service-workers",
   "version": "1.0.0",
   "description": "external service provider that can supplement the wizbutler system",
-  "homepage": "https://github.com/karll-bl/api-worker#readme",
+  "homepage": "https://github.com/xakefreud/node-express-api-base#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/karll-bl/api-worker.git"
+    "url": "git+https://github.com/xakefreud/node-express-api-base"
   },
   "license": "ISC",
   "author": "Karl Loquellano",
