@@ -1,7 +1,7 @@
 {
-  "name": "supplementary-api-service-workers",
+  "name": "node-express-api-base",
   "version": "1.0.0",
-  "description": "external service provider that can supplement the wizbutler system",
+  "description": "Node.js express base API development base boilerplate in typescript with jest testing",
   "homepage": "https://github.com/xakefreud/node-express-api-base#readme",
   "repository": {
     "type": "git",
