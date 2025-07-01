@@ -1,0 +1,35 @@
+{
+  "name": "supplementary-api-service-workers",
+  "version": "1.0.0",
+  "description": "external service provider that can supplement the wizbutler system",
+  "homepage": "https://github.com/karll-bl/api-worker#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karll-bl/api-worker.git"
+  },
+  "license": "ISC",
+  "author": "Karl Loquellano",
+  "main": "src/server.ts",
+  "scripts": {
+    "test": "jest --config jest.config.ts --coverage ",
+    "build": "rm -rf build/ && tsc -p tsconfig.build.json"
+  },
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "express-rate-limit": "^7.5.1",
+    "helmet": "^8.1.0"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.3",
+    "@types/jest": "^30.0.0",
+    "@types/node": "^24.0.3",
+    "@types/supertest": "^6.0.3",
+    "jest": "^30.0.2",
+    "node-mocks-http": "^1.17.2",
+    "supertest": "^7.1.1",
+    "ts-jest": "^29.4.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  }
+}
