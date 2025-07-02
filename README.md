@@ -1,7 +1,9 @@
 # node express api base boilerplate
 
 
-This is a boilerplate for an Express based API written in Typescript with jest testing.
+This is a boilerplate for an Express based API written in Typescript with Jest testing.
+
+
 Clone this repository and install.
 
 ```bash
