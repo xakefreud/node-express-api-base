@@ -21,3 +21,8 @@ Then, run:
 ```bash
 nodemon 
 ```
+
+To run the test:
+```bash
+npm run test
+```
